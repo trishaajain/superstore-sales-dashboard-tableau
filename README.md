@@ -100,7 +100,7 @@ This Tableau dashboard solves the problem by:
 
 # 📷 Dashboard Preview
 
-<img width="100%" alt="Superstore Dashboard" src="Dashboard Screenshot.png">
+<img width="100%" alt="Superstore Dashboard" src="Dashboard.png">
 
 ---
 
